@@ -1,0 +1,14 @@
+.footer{
+    width: 100%;
+    padding: 20px 0 30px 0;
+    font-size: 24px;
+    border-radius: 0;
+    color: #ccc;
+    border-top: 1px solid #ccc;
+}
+
+
+.footer:hover{
+    color: rgba(0,0,0,.7);
+    border-top: 1px solid rgba(0,0,0,.7);
+}
